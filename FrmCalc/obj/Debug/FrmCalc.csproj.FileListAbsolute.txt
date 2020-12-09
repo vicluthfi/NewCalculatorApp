@@ -1,0 +1,41 @@
+D:\A Data Kuliah\Pemrograman\del\FrmCalc\FrmCalc\bin\Debug\FrmCalc.exe.config
+D:\A Data Kuliah\Pemrograman\del\FrmCalc\FrmCalc\bin\Debug\FrmCalc.exe
+D:\A Data Kuliah\Pemrograman\del\FrmCalc\FrmCalc\bin\Debug\FrmCalc.pdb
+D:\A Data Kuliah\Pemrograman\del\FrmCalc\FrmCalc\obj\Debug\FrmCalc.csprojAssemblyReference.cache
+D:\A Data Kuliah\Pemrograman\del\FrmCalc\FrmCalc\obj\Debug\FrmCalc.Properties.Resources.resources
+D:\A Data Kuliah\Pemrograman\del\FrmCalc\FrmCalc\obj\Debug\FrmCalc.csproj.GenerateResource.cache
+D:\A Data Kuliah\Pemrograman\del\FrmCalc\FrmCalc\obj\Debug\FrmCalc.csproj.CoreCompileInputs.cache
+D:\A Data Kuliah\Pemrograman\del\FrmCalc\FrmCalc\obj\Debug\FrmCalc.exe
+D:\A Data Kuliah\Pemrograman\del\FrmCalc\FrmCalc\obj\Debug\FrmCalc.pdb
+D:\A Data Kuliah\Pemrograman\del\FrmCalc\FrmCalc\obj\Debug\FrmCalc.FrmCal.resources
+D:\A Data Kuliah\Pemrograman\del\FrmCalc\FrmCalc\obj\Debug\FrmCalc.FrmEntryCal.resources
+D:\CalculatorEventDelegation-master\CalculatorEventDelegation-master\FrmCalc\FrmCalc\bin\Debug\FrmCalc.exe.config
+D:\CalculatorEventDelegation-master\CalculatorEventDelegation-master\FrmCalc\FrmCalc\bin\Debug\FrmCalc.exe
+D:\CalculatorEventDelegation-master\CalculatorEventDelegation-master\FrmCalc\FrmCalc\bin\Debug\FrmCalc.pdb
+D:\CalculatorEventDelegation-master\CalculatorEventDelegation-master\FrmCalc\FrmCalc\obj\Debug\FrmCalc.csprojAssemblyReference.cache
+D:\CalculatorEventDelegation-master\CalculatorEventDelegation-master\FrmCalc\FrmCalc\obj\Debug\FrmCalc.FrmCal.resources
+D:\CalculatorEventDelegation-master\CalculatorEventDelegation-master\FrmCalc\FrmCalc\obj\Debug\FrmCalc.FrmEntryCal.resources
+D:\CalculatorEventDelegation-master\CalculatorEventDelegation-master\FrmCalc\FrmCalc\obj\Debug\FrmCalc.Properties.Resources.resources
+D:\CalculatorEventDelegation-master\CalculatorEventDelegation-master\FrmCalc\FrmCalc\obj\Debug\FrmCalc.csproj.GenerateResource.cache
+D:\CalculatorEventDelegation-master\CalculatorEventDelegation-master\FrmCalc\FrmCalc\obj\Debug\FrmCalc.exe
+D:\CalculatorEventDelegation-master\CalculatorEventDelegation-master\FrmCalc\FrmCalc\obj\Debug\FrmCalc.pdb
+E:\kuliah\materi\smester 3\pemerograman lanjut\program latihan\Tugas Delegate dan Event – Membuat Aplikasi Calculator\FrmCalc\bin\Debug\FrmCalc.exe.config
+E:\kuliah\materi\smester 3\pemerograman lanjut\program latihan\Tugas Delegate dan Event – Membuat Aplikasi Calculator\FrmCalc\bin\Debug\FrmCalc.exe
+E:\kuliah\materi\smester 3\pemerograman lanjut\program latihan\Tugas Delegate dan Event – Membuat Aplikasi Calculator\FrmCalc\bin\Debug\FrmCalc.pdb
+E:\kuliah\materi\smester 3\pemerograman lanjut\program latihan\Tugas Delegate dan Event – Membuat Aplikasi Calculator\FrmCalc\obj\Debug\FrmCalc.csprojAssemblyReference.cache
+E:\kuliah\materi\smester 3\pemerograman lanjut\program latihan\Tugas Delegate dan Event – Membuat Aplikasi Calculator\FrmCalc\obj\Debug\FrmCalc.FrmCal.resources
+E:\kuliah\materi\smester 3\pemerograman lanjut\program latihan\Tugas Delegate dan Event – Membuat Aplikasi Calculator\FrmCalc\obj\Debug\FrmCalc.FrmEntryCal.resources
+E:\kuliah\materi\smester 3\pemerograman lanjut\program latihan\Tugas Delegate dan Event – Membuat Aplikasi Calculator\FrmCalc\obj\Debug\FrmCalc.Properties.Resources.resources
+E:\kuliah\materi\smester 3\pemerograman lanjut\program latihan\Tugas Delegate dan Event – Membuat Aplikasi Calculator\FrmCalc\obj\Debug\FrmCalc.csproj.GenerateResource.cache
+E:\kuliah\materi\smester 3\pemerograman lanjut\program latihan\Tugas Delegate dan Event – Membuat Aplikasi Calculator\FrmCalc\obj\Debug\FrmCalc.exe
+E:\kuliah\materi\smester 3\pemerograman lanjut\program latihan\Tugas Delegate dan Event – Membuat Aplikasi Calculator\FrmCalc\obj\Debug\FrmCalc.pdb
+E:\ZIP\NewCalculatorApp-master\NewCalculatorApp-master\FrmCalc\bin\Debug\FrmCalc.exe.config
+E:\ZIP\NewCalculatorApp-master\NewCalculatorApp-master\FrmCalc\bin\Debug\FrmCalc.exe
+E:\ZIP\NewCalculatorApp-master\NewCalculatorApp-master\FrmCalc\bin\Debug\FrmCalc.pdb
+E:\ZIP\NewCalculatorApp-master\NewCalculatorApp-master\FrmCalc\obj\Debug\FrmCalc.csprojAssemblyReference.cache
+E:\ZIP\NewCalculatorApp-master\NewCalculatorApp-master\FrmCalc\obj\Debug\FrmCalc.FrmHasil.resources
+E:\ZIP\NewCalculatorApp-master\NewCalculatorApp-master\FrmCalc\obj\Debug\FrmCalc.FrmCalculator.resources
+E:\ZIP\NewCalculatorApp-master\NewCalculatorApp-master\FrmCalc\obj\Debug\FrmCalc.Properties.Resources.resources
+E:\ZIP\NewCalculatorApp-master\NewCalculatorApp-master\FrmCalc\obj\Debug\FrmCalc.csproj.GenerateResource.cache
+E:\ZIP\NewCalculatorApp-master\NewCalculatorApp-master\FrmCalc\obj\Debug\FrmCalc.exe
+E:\ZIP\NewCalculatorApp-master\NewCalculatorApp-master\FrmCalc\obj\Debug\FrmCalc.pdb

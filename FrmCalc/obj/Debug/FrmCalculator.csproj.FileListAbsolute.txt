@@ -1,0 +1,20 @@
+E:\kuliah\materi\smester 3\pemerograman lanjut\program latihan\Tugas Delegate dan Event – Membuat Aplikasi Calculator\FrmCalc\bin\Debug\FrmCalc.exe.config
+E:\kuliah\materi\smester 3\pemerograman lanjut\program latihan\Tugas Delegate dan Event – Membuat Aplikasi Calculator\FrmCalc\bin\Debug\FrmCalc.exe
+E:\kuliah\materi\smester 3\pemerograman lanjut\program latihan\Tugas Delegate dan Event – Membuat Aplikasi Calculator\FrmCalc\bin\Debug\FrmCalc.pdb
+E:\kuliah\materi\smester 3\pemerograman lanjut\program latihan\Tugas Delegate dan Event – Membuat Aplikasi Calculator\FrmCalc\obj\Debug\FrmCalculator.csprojAssemblyReference.cache
+E:\kuliah\materi\smester 3\pemerograman lanjut\program latihan\Tugas Delegate dan Event – Membuat Aplikasi Calculator\FrmCalc\obj\Debug\FrmCalc.FrmCal.resources
+E:\kuliah\materi\smester 3\pemerograman lanjut\program latihan\Tugas Delegate dan Event – Membuat Aplikasi Calculator\FrmCalc\obj\Debug\FrmCalc.FrmEntryCal.resources
+E:\kuliah\materi\smester 3\pemerograman lanjut\program latihan\Tugas Delegate dan Event – Membuat Aplikasi Calculator\FrmCalc\obj\Debug\FrmCalc.Properties.Resources.resources
+E:\kuliah\materi\smester 3\pemerograman lanjut\program latihan\Tugas Delegate dan Event – Membuat Aplikasi Calculator\FrmCalc\obj\Debug\FrmCalculator.csproj.GenerateResource.cache
+E:\kuliah\materi\smester 3\pemerograman lanjut\program latihan\Tugas Delegate dan Event – Membuat Aplikasi Calculator\FrmCalc\obj\Debug\FrmCalc.exe
+E:\kuliah\materi\smester 3\pemerograman lanjut\program latihan\Tugas Delegate dan Event – Membuat Aplikasi Calculator\FrmCalc\obj\Debug\FrmCalc.pdb
+E:\Game\Tugas-Delegate-dan-Event-Membuat-Aplikasi-Calculator-main\Tugas-Delegate-dan-Event-Membuat-Aplikasi-Calculator-main\Tugas Delegate dan Event – Membuat Aplikasi Calculator\FrmCalc\bin\Debug\FrmCalc.exe.config
+E:\Game\Tugas-Delegate-dan-Event-Membuat-Aplikasi-Calculator-main\Tugas-Delegate-dan-Event-Membuat-Aplikasi-Calculator-main\Tugas Delegate dan Event – Membuat Aplikasi Calculator\FrmCalc\bin\Debug\FrmCalc.exe
+E:\Game\Tugas-Delegate-dan-Event-Membuat-Aplikasi-Calculator-main\Tugas-Delegate-dan-Event-Membuat-Aplikasi-Calculator-main\Tugas Delegate dan Event – Membuat Aplikasi Calculator\FrmCalc\bin\Debug\FrmCalc.pdb
+E:\Game\Tugas-Delegate-dan-Event-Membuat-Aplikasi-Calculator-main\Tugas-Delegate-dan-Event-Membuat-Aplikasi-Calculator-main\Tugas Delegate dan Event – Membuat Aplikasi Calculator\FrmCalc\obj\Debug\FrmCalculator.csprojAssemblyReference.cache
+E:\Game\Tugas-Delegate-dan-Event-Membuat-Aplikasi-Calculator-main\Tugas-Delegate-dan-Event-Membuat-Aplikasi-Calculator-main\Tugas Delegate dan Event – Membuat Aplikasi Calculator\FrmCalc\obj\Debug\FrmCalc.FrmCal.resources
+E:\Game\Tugas-Delegate-dan-Event-Membuat-Aplikasi-Calculator-main\Tugas-Delegate-dan-Event-Membuat-Aplikasi-Calculator-main\Tugas Delegate dan Event – Membuat Aplikasi Calculator\FrmCalc\obj\Debug\FrmCalc.FrmEntryCal.resources
+E:\Game\Tugas-Delegate-dan-Event-Membuat-Aplikasi-Calculator-main\Tugas-Delegate-dan-Event-Membuat-Aplikasi-Calculator-main\Tugas Delegate dan Event – Membuat Aplikasi Calculator\FrmCalc\obj\Debug\FrmCalc.Properties.Resources.resources
+E:\Game\Tugas-Delegate-dan-Event-Membuat-Aplikasi-Calculator-main\Tugas-Delegate-dan-Event-Membuat-Aplikasi-Calculator-main\Tugas Delegate dan Event – Membuat Aplikasi Calculator\FrmCalc\obj\Debug\FrmCalculator.csproj.GenerateResource.cache
+E:\Game\Tugas-Delegate-dan-Event-Membuat-Aplikasi-Calculator-main\Tugas-Delegate-dan-Event-Membuat-Aplikasi-Calculator-main\Tugas Delegate dan Event – Membuat Aplikasi Calculator\FrmCalc\obj\Debug\FrmCalc.exe
+E:\Game\Tugas-Delegate-dan-Event-Membuat-Aplikasi-Calculator-main\Tugas-Delegate-dan-Event-Membuat-Aplikasi-Calculator-main\Tugas Delegate dan Event – Membuat Aplikasi Calculator\FrmCalc\obj\Debug\FrmCalc.pdb
